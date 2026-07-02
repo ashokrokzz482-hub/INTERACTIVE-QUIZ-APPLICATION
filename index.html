@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Interactive Quiz Application</title>
+
+    <!-- CSS File -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- Main Quiz Wrapper -->
+    <div class="application-wrapper">
+
+        <!-- Quiz Card -->
+        <div class="quiz-card">
+
+            <!-- Application Title -->
+            <h1 class="application-title">
+                Interactive Quiz Application
+            </h1>
+
+            <!-- Quiz Content Section -->
+            <div class="quiz-content-area">
+
+                <!-- Question Number -->
+                <p class="question-counter" id="questionCounter">
+                    Question 1 of 5
+                </p>
+
+                <!-- Question Text -->
+                <h2 class="question-text" id="questionText">
+                    Question appears here
+                </h2>
+
+                <!-- Options Container -->
+                <div class="options-wrapper" id="optionsWrapper">
+
+                    <!-- Options generated dynamically from JavaScript -->
+
+                </div>
+
+                <!-- Feedback Message -->
+                <p class="feedback-message" id="feedbackMessage">
+
+                </p>
+
+                <!-- Next Button -->
+                <button class="navigation-button" id="navigationButton">
+                    Next Question
+                </button>
+
+            </div>
+
+            <!-- Result Section -->
+            <div class="result-section hidden-section" id="resultSection">
+
+                <h2 class="result-title">
+                    Quiz Completed 🎉
+                </h2>
+
+                <p class="final-score" id="finalScore">
+                    Your Score : 0 / 5
+                </p>
+
+                <button class="restart-button" id="restartButton">
+                    Restart Quiz
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+    
+
+    <!-- Questions File -->
+    <script src="js/questions.js"></script>
+
+    <!-- Main JavaScript File -->
+    <script src="js/app.js"></script>
+
+</body>
+
+</html>
