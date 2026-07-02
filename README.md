@@ -45,3 +45,11 @@ Responsive Web Design
 DOM Manipulation
 
 Event Handling
+
+# OUTPUTS:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9e0e0559-5c62-43ba-ac22-d89f9f833fad" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/88238307-4c19-45a9-ac8c-3c91baae0002" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/587b993d-fe3b-47cf-9b75-5f45ff3dbee9" />
