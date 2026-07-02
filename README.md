@@ -12,7 +12,8 @@ DURATION: 8 WEEKS
 
 MENTOR: NEELA SANTHOSH
 
-DESCRIPTION
+##DESCRIPTION
+
 The Interactive Quiz Application is a responsive and user-friendly web application developed as part of the CODTECH IT SOLUTIONS Front End Development Internship. The main objective of this project is to create an engaging quiz platform where users can answer multiple-choice questions and instantly view their scores. This project focuses on improving frontend development skills by implementing interactive UI components, dynamic question handling, and responsive web design using modern web technologies.
 
 The application was designed to provide a smooth and interactive experience for users attempting quizzes online. The quiz contains multiple questions with different answer options, and users can select their answers using clickable buttons. After selecting an option and proceeding through all questions, the application calculates the final score and displays the result instantly. The interface is simple, clean, and easy to navigate, making it suitable for students and beginners who want to test their knowledge in different subjects.
